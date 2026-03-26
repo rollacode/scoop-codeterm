@@ -1,12 +1,12 @@
 {
-  "version": "0.6.3",
+  "version": "0.6.4",
   "description": "AI-first cross-platform terminal multiplexer",
   "homepage": "https://github.com/rollacode/codeterm",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/rollacode/codeterm/releases/download/v0.6.3/CodeTerm_0.6.3_x64-setup.exe#/dl.7z",
-      "hash": "cb597e3e0c4f915010c03f474f84ef9c7d4fc0e2551897d9c11e1c66b22b5569"
+      "url": "https://github.com/rollacode/codeterm/releases/download/v0.6.4/CodeTerm_0.6.4_x64-setup.exe#/dl.7z",
+      "hash": "609485336feeafebbc516ac0a61b7a685ad22c71d6e08b8c42fd6580fd696e53"
     }
   },
   "shortcuts": [
